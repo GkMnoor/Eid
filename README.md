@@ -76,7 +76,6 @@ int main()
 }
 
 ```
-```
 #include <iostream>
 
 using namespace std;
@@ -95,7 +94,20 @@ int main() {
 	
 }
 ```
+#include <iostream>
 
+using namespace std;
+
+int main() {
+
+	cout<<" Happy Eid ... " << ;
+	
+	return 0 ;
+	// this is the first code of any programmer in the world "hello world ;)" // 
+	//@MuniraTech ..
+}
+
+```
 ## kotlin
 ```
 package Eid
